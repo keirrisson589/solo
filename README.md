@@ -1,12 +1,21 @@
-keirrissonc
+Keirrisson1ºa
 public/
-index.html //pagina principal:lista de videos
-recomendacoes. html // recomendações
-ranking.html // ranking de videos
+index.html//Pagina Principal:lista de vídeos
+recomendacoes.htmlo // recomendações
+ranking.html // ranking de vídeos
 css/
-style.css // seu keirrisson1ºa principal
+style.css // seu Keirrisson1ºa principal
 js/
-script.js // js para carregar e exibir videos
-imagens/ logo.png // logo ou icones
+script.js //js para carregar e exibir vídeos 
+ranking.js //javascript do ranking 
+imagens/
+logo.png // logo ou ícones
 data
-videos.json // dados dos videos
+videos.json // dados dos vídeos
+# style.css
+<><> index.html X
+<> index.html>html> body> div.video-box >
+1
+2345678 8
+9
+iframe
